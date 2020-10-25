@@ -1,1 +1,3 @@
 # Exam-time
+
+The real time application which helps as platform to conduct the test...
